@@ -130,19 +130,14 @@ You should see a screen like this:
 
 ## Submission
 
-After successfully installing a Linux distro, create a write-up in your repository's `README.md` file using the following format:
-
-```
 # Proof of Completion
 
 ## Name:
-(Your full name)
+Devansh Singh  
 
 ## Registration Number:
-(Your registration number)
+230962208
 
 ## Screenshot of Terminal:
-(Attach the screenshot of your Linux terminal)
-```
+![image](https://github.com/user-attachments/assets/83716c42-1f73-419a-9ffd-12fa087ff70e)
 
-Good Luck! If you have any questions, or you got stuck along the way, feel free to ask me questions in the WhatsApp groupchat! You can even discuss about your tasks there.
